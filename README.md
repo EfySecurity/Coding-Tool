@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="project_logo.png" alt="Project Logo">
-</div>
-
 # Security Tools - Termux Script
 
 Este é um projeto de script para operações de encode, decode e personalização desenvolvido para uso em segurança da informação. Ele permite a codificação e decodificação de dados utilizando a biblioteca base64, além de aplicar uma operação personalizada aos dados.
