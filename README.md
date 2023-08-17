@@ -93,6 +93,7 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas 
 ## Autor
 
 Nome: Efy Security
+
 Email: efy.security@proton.me
 
 ## Licença
