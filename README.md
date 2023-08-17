@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="project_logo.png" alt="Project Logo">
+  <img src="icons8=base=64.gif" alt="Project Logo">
 </div>
 
 # Security Tools - Termux Script
