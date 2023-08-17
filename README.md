@@ -86,5 +86,11 @@ Resultado da operação personalizada: S3cur3 p4ssw0rd
 Contribuição
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Crie um fork deste repositório, faça suas alterações e envie um pull request.
 
-Licença
-Este projeto está sob a licença XYZ. Veja o arquivo LICENSE para mais detalhes.
+## Autor
+
+Nome: Efy Security
+Email: efy.security@proton.me
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
