@@ -33,7 +33,7 @@ while True:
     print("1. Encode")
     print("2. Decode")
     print("3. Operação Personalizada")
-    print("4. Sair{Colors.ENDC}")
+    print("4. Sair")
     
     choice = input()
     
