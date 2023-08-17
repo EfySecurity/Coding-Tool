@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/EfySecurity/Coding-Tool/blob/main/icons8-base-64.gif" alt="Project Logo">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python-logo-generic.svg">
 </div>
 
 # Coding Tool
