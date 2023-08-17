@@ -2,7 +2,7 @@
   <img src="https://github.com/EfySecurity/Coding-Tool/blob/main/icons8-base-64.gif" alt="Project Logo">
 </div>
 
-# Security Tools - Termux Script
+# Coding Tool
 
 Este é um projeto de script para operações de encode, decode e personalização desenvolvido para uso em segurança da informação. Ele permite a codificação e decodificação de dados utilizando a biblioteca base64, além de aplicar uma operação personalizada aos dados.
 
